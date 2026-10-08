@@ -1,6 +1,6 @@
 # 王麒嘉 · 个人简历
 
-在线预览：**https://wxqj.github.io/resume/** （仓库启用 GitHub Pages 后生效）
+在线预览：**https://seize24-w.github.io/resume/**
 
 大数据管理与应用专业 · 大连财经学院 2027 届
 
